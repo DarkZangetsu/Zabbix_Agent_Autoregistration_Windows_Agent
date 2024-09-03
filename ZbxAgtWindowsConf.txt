@@ -1,0 +1,6 @@
+msiexec /i zabbix_agent-agent-verions-windows-amd64.msi /quiet \
+SERVER=<adresse_ip_du_serveur_zabbix> \
+HOSTNAME=Auto \
+SERVERACTIVE=<adresse_ip_du_serveur_zabbix> \
+START_AGENT=1 \
+HOSTMETADATA="WindowsDepartmentAExample"
