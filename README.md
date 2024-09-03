@@ -1,0 +1,2 @@
+# Zabbix_Angent_Autoregistration_Windows_Agent
+Autoregistration zabbix agent for windows GPO
